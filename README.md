@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @DursunAlperenCoban
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Cyber Security and Machine Learning
 - 🌱 I’m currently studying at Istanbul Kültür University
-- 💞️ I’m looking to collaborate on projects as an intern
-- 📫 How to reach me dursunalperen@hotmail.com
+- 📫 How to reach me dursunalperen28@gmail.com
 
 <!---
 DursunAlperenCoban/DursunAlperenCoban is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
